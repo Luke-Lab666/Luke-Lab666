@@ -40,4 +40,4 @@
 保持好奇，持续折腾。
 
 ⸻
-
+[![IP 信息卡片](https://card.net.coffee/v1/card.svg?style=minimal&sticker=rainbow)](https://ip.net.coffee/ip/ "查看 IP")
