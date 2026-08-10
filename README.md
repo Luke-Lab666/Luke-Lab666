@@ -1,58 +1,43 @@
-<div align="center">
+👋 你好，我是 Luke
 
-Hi, I’m Luke 👋
+热爱技术，喜欢折腾，也喜欢把想法变成真正能用的东西。
 
-Building useful things with code.
+👨‍💻 关于我
 
-Open-source enthusiast · Developer · Tech Explorer
+* 💻 对软件、网络与自动化感兴趣
+* 🛠️ 喜欢开发实用工具和开源项目
+* 🌱 持续学习和探索新的技术
+* ⚡ 追求简单、稳定、高效的解决方案
+* 🚀 偶尔造轮子，长期优化轮子
 
-</div>
+🛠️ 技术与兴趣
 
-⸻
+主要关注：
 
-About Me
+* 🌐 网络与基础设施
+* 🐧 Linux
+* 📦 容器化
+* 🤖 自动化
+* 🧩 开源工具
+* ✨ 实用工具与体验优化
 
-* 💻 Interested in software, networking and automation
-* 🛠️ Building practical tools and open-source projects
-* 🌱 Always learning and improving
-* ⚡ Prefer simple, reliable and maintainable solutions
+🚀 开源
 
-⸻
+喜欢做一些自己真正会用到的东西。
 
-Tech
+更看重：
 
-<div align="center">
-</div>
+简单 · 稳定 · 实用 · 可维护
 
-⸻
+感兴趣的话，可以看看我的仓库和置顶项目。
 
-GitHub Stats
+📊 GitHub
 
-<div align="center">
-</div>
+💡 一点想法
 
-⸻
+让复杂的东西变简单，让能用的东西变得更好。
 
-Featured Projects
-
-Take a look at my pinned repositories below.
-
-I mainly build tools that focus on:
-
-* Simplicity
-* Reliability
-* Automation
-* Better user experience
+保持好奇，持续折腾。
 
 ⸻
 
-<div align="center">
-
-Keep building. Keep exploring.
-
-</div>
-
-⸻
-
-<div align="center">
-</div>
