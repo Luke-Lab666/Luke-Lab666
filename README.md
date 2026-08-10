@@ -1,3 +1,58 @@
-# Hi 👋
+<div align="center">
 
-[![IP 信息卡片](https://card.net.coffee/v1/card.svg?style=aurora&sticker=rainbow&w=480)](https://ip.net.coffee/ip/ "查看 IP")
+Hi, I’m Luke 👋
+
+Building useful things with code.
+
+Open-source enthusiast · Developer · Tech Explorer
+
+</div>
+
+⸻
+
+About Me
+
+* 💻 Interested in software, networking and automation
+* 🛠️ Building practical tools and open-source projects
+* 🌱 Always learning and improving
+* ⚡ Prefer simple, reliable and maintainable solutions
+
+⸻
+
+Tech
+
+<div align="center">
+</div>
+
+⸻
+
+GitHub Stats
+
+<div align="center">
+</div>
+
+⸻
+
+Featured Projects
+
+Take a look at my pinned repositories below.
+
+I mainly build tools that focus on:
+
+* Simplicity
+* Reliability
+* Automation
+* Better user experience
+
+⸻
+
+<div align="center">
+
+Keep building. Keep exploring.
+
+</div>
+
+⸻
+
+<div align="center">
+</div>
